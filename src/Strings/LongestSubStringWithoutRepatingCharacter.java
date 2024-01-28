@@ -39,7 +39,7 @@ public class LongestSubStringWithoutRepatingCharacter {
 			}
 			
 		}
-		//checking git 
+		//checking git jffj user 1
 		//String longestSubstring = s.substring(longestStart, longestStart + max_length);
         //System.out.println("Longest substring without repeating characters: " + longestSubstring);
         System.out.println("Length of the longest substring: " + max_length);
